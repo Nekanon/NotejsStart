@@ -1,0 +1,32 @@
+{
+  "name": "notejsstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "myScript": "echo npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nekanon/NotejsStart.git"
+  },
+  "author": "Ev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nekanon/NotejsStart/issues"
+  },
+  "homepage": "https://github.com/Nekanon/NotejsStart#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongodb": "^3.3.3",
+    "pg": "^7.12.1",
+    "postgresql": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
